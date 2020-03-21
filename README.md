@@ -1,2 +1,2 @@
-# yuzy_works
- my personal practices and analysis
+# My personal works
+I make my personal practices and data analysis outputs in public!
