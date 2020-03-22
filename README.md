@@ -10,7 +10,8 @@ The outputs here include: <br>
 - Personal research or data analysis which I am paying attention to
 
 # How is this repository constructed?
-Generally, I launch my projects with the folders composed of
-- Project name
- - Data(raw data is here.)
- - workspace(python files, csv files are here.)
+Generally, I launch my projects with the project folders composed of
+- data(raw data is here.)
+- workspace(python files, csv files are here.)
+- others(including photos, graphs, charts and so on)
+- something like documents(lectures, presentations, slides, papers, reports)
