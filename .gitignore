@@ -2,6 +2,7 @@
 *.txt
 *.xlsx
 *.pdf
+*.docx
 *.pptx
 *.PNG
 *.ipynb_checkpoints
