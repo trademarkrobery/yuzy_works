@@ -1,8 +1,13 @@
 *.csv
 *.txt
 *.xlsx
+*.xls
 *.pdf
 *.docx
 *.pptx
 *.PNG
+*.jpg
 *.ipynb_checkpoints
+*.do
+*.zip
+
