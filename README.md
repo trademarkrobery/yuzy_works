@@ -5,7 +5,7 @@ I am a master student in Economics and Finance while working as a data scientist
 Every project here is not related to my own jobs and research activities in my Graduate School.
 
 The outputs here include: <br>
-- Homeworks or reports in the classes I have taken
+- Assignments in the classes I have taken
 - Competitions I have participated in
 - Personal research or data analysis which I am paying attention to
 
