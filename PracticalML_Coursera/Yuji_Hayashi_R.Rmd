@@ -261,3 +261,7 @@ pred_test
 ```
 
 I got a full score in the final quiz given on Coursera platform by answering the above results!! C'est parfait!
+
+
+# Interpretation about out of sample error
+I did not find out of sample error situation. The prediction accuracy is enough high.
