@@ -1,4 +1,3 @@
-*.csv
 *.txt
 *.xlsx
 *.xls
@@ -10,4 +9,3 @@
 *.ipynb_checkpoints
 *.do
 *.zip
-
